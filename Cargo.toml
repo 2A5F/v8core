@@ -1,0 +1,2 @@
+[workspace]
+members = ["./v8core"]

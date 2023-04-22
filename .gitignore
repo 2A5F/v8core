@@ -1,0 +1,5 @@
+/target
+/Cargo.lock
+/.vs
+
+Core.V8/v8core.dll
